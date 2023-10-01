@@ -1,0 +1,1 @@
+Write result is Hello its First text file, Hello its Second text file
