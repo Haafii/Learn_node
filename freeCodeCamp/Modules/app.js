@@ -6,3 +6,6 @@ console.log(names);
 sayHi(names.hafi);
 sayHi(names.avi)
 sayHi('kujutan')
+
+
+require('./sum')
