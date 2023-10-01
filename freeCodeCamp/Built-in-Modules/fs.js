@@ -5,4 +5,4 @@ const second = readFileSync('./contents/second.txt', 'utf8')
 
 console.log(first, second);
 
-writeFileSync('./contents/write-res.txt', `Write result is ${first}, ${second}`)
+writeFileSync('./contents/write-res.txt', `Write result is ${first}, ${second}`)  //flag : a used to append
